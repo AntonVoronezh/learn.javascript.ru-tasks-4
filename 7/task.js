@@ -21,7 +21,7 @@ function User(fullName) {
   });
 }
 
-const vasya = new User('Василий Попкин');
+const vasya = new User('Василий tttt');
 
 // чтение firstName/lastName
 console.log(`${vasya.firstName}\n`); // Василий
